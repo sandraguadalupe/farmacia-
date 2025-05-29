@@ -23,7 +23,7 @@ Este proyecto es una aplicación desarrollada como trabajo final de la materia *
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/ProyectoFinalPOO-Farmacia.git
+   https://github.com/YgTx0044/POO/tree/main/ProyectoFinalPOO%20-%20Farmacia%20
 Abre el proyecto en visual
 
 Configura el python si es necesario.
